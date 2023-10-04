@@ -17,3 +17,4 @@ git checkout feature-branch
 # Pull changes from main with fast-forward only strategy
 git pull --ff-only origin main
 docker stop
+read properly
